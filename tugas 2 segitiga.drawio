@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T02:21:31.218Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" version="22.0.4" etag="WGLXnMVuZcURYHTgCNru" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-16T02:26:40.573Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="_0o-OvpvqMElm0lLJ0Q5" version="22.0.4" type="github">
   <diagram name="Side-1" id="XFWwhgx5bORuDmnEK2D5">
-    <mxGraphModel>
+    <mxGraphModel dx="794" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="JaSG96k456iEeuoyTh-3-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JaSG96k456iEeuoyTh-3-1" target="JaSG96k456iEeuoyTh-3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JaSG96k456iEeuoyTh-3-1" value="Star" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="60" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JaSG96k456iEeuoyTh-3-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JaSG96k456iEeuoyTh-3-2" target="JaSG96k456iEeuoyTh-3-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JaSG96k456iEeuoyTh-3-2" value="menghitung luas segitiga" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JaSG96k456iEeuoyTh-3-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JaSG96k456iEeuoyTh-3-4" target="JaSG96k456iEeuoyTh-3-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JaSG96k456iEeuoyTh-3-4" value="LA&lt;br&gt;1/2&lt;br&gt;alas tinggi" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="340" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JaSG96k456iEeuoyTh-3-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JaSG96k456iEeuoyTh-3-6" target="JaSG96k456iEeuoyTh-3-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JaSG96k456iEeuoyTh-3-6" value="LA-1/2 kali alas kali tinggi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JaSG96k456iEeuoyTh-3-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JaSG96k456iEeuoyTh-3-7" target="JaSG96k456iEeuoyTh-3-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JaSG96k456iEeuoyTh-3-7" value="luas segitiga" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="520" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JaSG96k456iEeuoyTh-3-8" value="finish" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="520" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
