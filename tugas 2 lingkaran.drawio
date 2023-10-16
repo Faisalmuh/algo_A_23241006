@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2023-10-16T02:27:36.038Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" version="22.0.4" etag="8UMZP9p0M6YpGC1OO1Fv" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-16T02:32:11.258Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="GQFSdxhEYmzDx8W1WQrG" version="22.0.4" type="github">
   <diagram name="Side-1" id="YqM034RE26dWIak89PvD">
-    <mxGraphModel>
+    <mxGraphModel dx="794" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ETWHJJIB3NmQDuu7pa1D-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ETWHJJIB3NmQDuu7pa1D-1" target="ETWHJJIB3NmQDuu7pa1D-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ETWHJJIB3NmQDuu7pa1D-1" value="MULAI" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="40" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ETWHJJIB3NmQDuu7pa1D-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ETWHJJIB3NmQDuu7pa1D-2" target="ETWHJJIB3NmQDuu7pa1D-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ETWHJJIB3NmQDuu7pa1D-2" value="MENGHITUNG LUAS LINGKARAN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ETWHJJIB3NmQDuu7pa1D-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ETWHJJIB3NmQDuu7pa1D-4" target="ETWHJJIB3NmQDuu7pa1D-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ETWHJJIB3NmQDuu7pa1D-4" value="PHI-22/7&lt;br&gt;D-10" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ETWHJJIB3NmQDuu7pa1D-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ETWHJJIB3NmQDuu7pa1D-5" target="ETWHJJIB3NmQDuu7pa1D-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ETWHJJIB3NmQDuu7pa1D-5" value="LUAS LINGKARAN " style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="510" width="140" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="ETWHJJIB3NmQDuu7pa1D-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ETWHJJIB3NmQDuu7pa1D-6" target="ETWHJJIB3NmQDuu7pa1D-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ETWHJJIB3NmQDuu7pa1D-6" value="LUAS O-&lt;br&gt;&lt;div&gt;PHI (22/7) DIKALI DIAMETER (10)&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="285" y="350" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ETWHJJIB3NmQDuu7pa1D-8" value="FINISH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="517.5" width="100" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
